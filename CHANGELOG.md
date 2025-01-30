@@ -1,5 +1,9 @@
 # Redirect Changelog
 
+## 2.0.2 - 2025-01-30
+### Added
+- Craft Cms 5 support
+
 ## 2.0.1 - 2023-01-25
 ### Fixed
 - Fix elements not having an edit link on list view
