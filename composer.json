@@ -2,7 +2,7 @@
   "name": "marcelweidum/redirect",
   "description": "Craft redirect plugin provides an easy way to enter and maintain 301 and 302 redirects and 404 error pages.",
   "type": "craft-plugin",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "keywords": [
     "craft",
     "cms",
@@ -13,7 +13,7 @@
     "craft3"
   ],
   "platform": {
-    "php": "8.0|8.1"
+    "php": "8.0|8.1|8.2|8.3"
   },
   "license": "MIT",
   "support": {
@@ -28,7 +28,7 @@
     }
   ],
   "require": {
-    "craftcms/cms": "^4.0.0"
+    "craftcms/cms": "^4.0|^5.0"
   },
   "autoload": {
     "psr-4": {
